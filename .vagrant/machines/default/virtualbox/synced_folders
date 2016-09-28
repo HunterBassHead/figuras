@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html/webapps":{"owner":"www-data","group":"www-data","guestpath":"/var/www/html/webapps","hostpath":"C:/Users/eDgArbenjigoenitz/Desktop/pruebas/webapps","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/eDgArbenjigoenitz/Desktop/pruebas","disabled":false,"__vagrantfile":true}}}
